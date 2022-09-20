@@ -1,0 +1,1 @@
+Yang saya pelajari setelah melakukan tugas program dari tugas kali ini yaitu membuat suatu fungsi di bahasa pemrograman python yang dapat mengembalikan suatu hasil dengan sesuai yang diinginkan/ diminta juga dapat memahami penggunaan list comprehension hingga  fungsi rekursif dan juga memahami pembalikan suatu tipe data string
